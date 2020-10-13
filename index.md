@@ -11,7 +11,7 @@
 <img src="images/002_Project2_Flexible_Budget_Based_Variance_Analysis.PNG?raw=true"/>
 
 ---
-[Project 3 Connecting MySQL Server with Python (Sakila DB)](/Connecting MySQL Server with Python (Sakila DB))
+[Project 3 Connecting MySQL Server with Python (Sakila DB)](/Connecting MySQL Server with Python (Sakila DB).md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
