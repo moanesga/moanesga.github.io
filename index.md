@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Financial Reporting and Management Information Systems](/pdf/Hereford_Week_Report_48.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/001_Project1_Flexible_Budget_Based_Variance_Analysis.PNG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
