@@ -29,12 +29,29 @@ fig.show()
 <img src="images/003_Connecting MySQL_with_Python_DataFrame_002.PNG?raw=true"/>
 
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Plotting a scatter graph of customers by country
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+```python
+fig = px.scatter(customer, x= "country", y="count(1)", color="country",
+                     hover_name= "country", size="count(1)")
+fig.show()
+```
 
-### 4. Provide a basis for further data collection through surveys or experiments
+<img src="images/003_Connecting MySQL_with_Python_DataFrame_003.PNG?raw=true"/>
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+### 4. Plotting a scatter geo graph of customer_list_by_continent View 
+
+
+```python
+fig_3 = px.scatter_geo(customer_by_continent, locations="Code", color="Continent",
+                     hover_name="country", size="count(1)",
+                     projection="natural earth")
+fig_3.show()
+```
+
+<img src="images/003_Connecting MySQL_with_Python_DataFrame_004.PNG?raw=true"/>
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
