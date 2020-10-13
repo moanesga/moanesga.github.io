@@ -4,11 +4,11 @@
 
 
 [Project 1 HR Analysis Car Engine Manufacturer](https://public.tableau.com/views/HRAnalysisCarManufacturer/Sources?:language=de&:display_count=y&:origin=viz_share_link/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/001_Project1_HR_Analysis_Car_Engine_Manufacturer.PNG?raw=true"/>
 
 ---
 [Project 2 Financial Reporting and Management Information Systems](/pdf/Hereford_Week_Report_48.pdf)
-<img src="images/001_Project1_Flexible_Budget_Based_Variance_Analysis.PNG?raw=true"/>
+<img src="images/002_Project2_Flexible_Budget_Based_Variance_Analysis.PNG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
