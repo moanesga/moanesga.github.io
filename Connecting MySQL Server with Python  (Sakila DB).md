@@ -1,15 +1,13 @@
 ## Connecting MySQL Server with Python  (Sakila DB)
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Description of two methods to connect MySQL databases to Python. With the first method it is possible easy access to the information converting tables in dictionary to have a first overview of the content. In the second method using sqlalchemy, the options are expanded to  use pandas and plotly express. Here the MySQL Sakila database (Movies) was taken as an example to transfer information in DataFrames and interactive charts with views of Customer by country including geolocation by continent.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Reading the film_list View into a pandas DataFrame
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+<img src="images/003_Connecting MySQL_with_Python_DataFrame_001.PNG?raw=true"/>
 
-```javascript
-if (isAwesome){
-  return true
-}
+```film = pd.read_sql('SELECT * FROM film_list', engine)
+film.head(5)
 ```
 
 ### 2. Assess assumptions on which statistical inference will be based
