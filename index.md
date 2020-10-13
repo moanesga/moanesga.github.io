@@ -12,20 +12,7 @@
 
 ---
 [Project 3 Connecting MySQL Server with Python (Sakila DB)](https://github.com/moanesga/moanesga.github.io/blob/master/Connecting%20MySQL%20Server%20with%20Python%20%20(Sakila%20DB).md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-[Project 4 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-[Project 5 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
+<img src="images/003_Project3_photo.PNG?raw=true"/>
 
 
 
