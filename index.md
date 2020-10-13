@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Financial Reporting and Management Information Systems](/pdf/Hereford_Week_Report_48.pdf.pdf)
+[Project 2 Financial Reporting and Management Information Systems](/pdf/Hereford_Week_Report_48.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
