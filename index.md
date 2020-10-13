@@ -3,7 +3,7 @@
 ---
 
 
-[Project 1 Title](/sample_page)
+[Project 1 HR Analysis Car Engine Manufacturer](https://public.tableau.com/views/HRAnalysisCarManufacturer/Sources?:language=de&:display_count=y&:origin=viz_share_link/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -16,7 +16,7 @@
 
 ---
 
-[Project 4 Title](http://example.com/)
+[Project 4 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
