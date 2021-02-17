@@ -36,12 +36,16 @@
 
 ## My publications
 
-2015 Simulation of an emergency system: case hospital San Rafael "ISSN 2145-9282 - ISSN 2422-2399 Ingenio Magno Publindex (Spanish)
+[2015 Simulation of an emergency system: case hospital San Rafael "ISSN 2145-9282 - ISSN 2422-2399 Ingenio Magno Publindex (Spanish)]
 (http://revistas.ustatunja.edu.co/index.php/ingeniomagno/article/view/1028)
+<img src="images/Simulacion.PNG?raw=true"/>
 
 
-2013 Developing a simulation model for the emergency ESE Hospital San Rafael to reduce waiting times for patients in Virtual Pro Magazine ISSN 1900 - 6241. No. 133 (Spanish)
+[2013 Developing a simulation model for the emergency ESE Hospital San Rafael to reduce waiting times for patients in Virtual Pro Magazine ISSN 1900 - 6241. No. 133 (Spanish)]
 (https://www.virtualpro.co/biblioteca/formulacion-de-un-modelo-de-simulacion-del-sistema-de-emergencias-de-la-e-s-e-hospital-san-rafael-para-reducir-tiempos-de-espera-de-pacientes)
+<img src="images/Simulacion_01.PNG?raw=true"/>
+
+
 
 --
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
