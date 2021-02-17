@@ -15,7 +15,7 @@
 
 
 [Project 3 Google Analytics Dashboard of Portfolio Page]
-(https://github.com/moanesga/moanesga.github.io/blob/master/EDA_for_pneumonia_identification.md)
+(https://github.com/moanesga/moanesga.github.io/blob/master/Google_Analytics_Dashboard_Portfolio.md)
 <img src="images/Google_Analytics_Portafolio_page.PNG?raw=true"/>
 
 
