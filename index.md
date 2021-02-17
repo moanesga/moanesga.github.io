@@ -7,8 +7,9 @@
 
 ---
 
-[Project 2 Dashboard Curriculum Vitae in Power BI](/pdf/cv - PowerBI.pdf)
-<img src="images/cv-PowerBI.PNG?raw=true"/>
+[Project 2 EDA for Pneumonia detection (2D Medical Imaging)]
+(https://github.com/moanesga/moanesga.github.io/blob/master/EDA_for_pneumonia_identification.md)
+<img src="images/EDA for Pneumonia.PNG?raw=true"/>
 
 ---
 
