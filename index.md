@@ -2,17 +2,15 @@
 
 ---
 
-[Project 1 Dashboard Curriculum Vitae in Power BI]
-(/pdf/cv - PowerBI.pdf)
-<img src="images//cv-PowerBI.PNG?raw=true"/>
-
----
-
-[Project 2 EDA for Pneumonia detection (2D Medical Imaging)](https://github.com/moanesga/moanesga.github.io/blob/master/EDA_for_pneumonia_identification.md)
+[Project 1 EDA for Pneumonia detection (2D Medical Imaging)](https://github.com/moanesga/moanesga.github.io/blob/master/EDA_for_pneumonia_identification.md)
 <img src="images/EDA for Pneumonia.PNG?raw=true"/>
 
 ---
 
+[Project 2 Dashboard Curriculum Vitae in Power BI](/pdf/cv - PowerBI.pdf)
+<img src="images//cv-PowerBI.PNG?raw=true"/>
+
+---
 
 [Project 3 Google Analytics Dashboard of Portfolio Page](https://github.com/moanesga/moanesga.github.io/blob/master/Google_Analytics_Dashboard_Portfolio.md)
 <img src="images/Google_Analytics_Portafolio_page.PNG?raw=true"/>
