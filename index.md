@@ -2,7 +2,7 @@
 
 ---
 
-[Project 1 Dashboard Curriculum Vitae in Power BI](/pdf/cv - PowerBI.pdf)
+[Project 1 Dashboard Curriculum Vitae in Power BI] (/pdf/cv - PowerBI.pdf)
 <img src="images//cv-PowerBI.PNG?raw=true"/>
 
 ---
