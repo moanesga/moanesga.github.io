@@ -1,4 +1,4 @@
-## EDA for Pneumonia detection from chest X-Rays (NIH)
+## Google Analytics Dashboard of Portfolio
 
 **Project description:** Setting Google analytics to follow up visits of your profile 
 
