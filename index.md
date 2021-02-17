@@ -36,8 +36,7 @@
 
 ## My publications
 
-[2015 Simulation of an emergency system: case hospital San Rafael "ISSN 2145-9282 - ISSN 2422-2399 Ingenio Magno Publindex (Spanish)]
-(http://revistas.ustatunja.edu.co/index.php/ingeniomagno/article/view/1028)
+[2015 Simulation of an emergency system: case hospital San Rafael "ISSN 2145-9282 - ISSN 2422-2399 Ingenio Magno Publindex (Spanish)](http://revistas.ustatunja.edu.co/index.php/ingeniomagno/article/view/1028)
 <img src="images/Simulacion.PNG?raw=true"/>
 
 
