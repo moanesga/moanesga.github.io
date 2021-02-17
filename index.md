@@ -13,17 +13,25 @@
 
 ---
 
-[Project 2 Connecting MySQL Server with Python (Sakila DB)](https://github.com/moanesga/moanesga.github.io/blob/master/Connecting%20MySQL%20Server%20with%20Python%20%20(Sakila%20DB).md)
+
+[Project 3 Google Analytics Dashboard of Portfolio Page]
+(https://github.com/moanesga/moanesga.github.io/blob/master/EDA_for_pneumonia_identification.md)
+<img src="images/Google_Analytics_Portafolio_page.PNG?raw=true"/>
+
+
+---
+
+[Project 4 Connecting MySQL Server with Python (Sakila DB)](https://github.com/moanesga/moanesga.github.io/blob/master/Connecting%20MySQL%20Server%20with%20Python%20%20(Sakila%20DB).md)
 <img src="images/003_Project3_photo.PNG?raw=true"/>
 
 ---
 
-[Project 3 Tableau-HR Analysis Car Engine Manufacturer](https://public.tableau.com/views/HRAnalysisCarManufacturer/Sources?:language=de&:display_count=y&:origin=viz_share_link/)
+[Project 5 Tableau-HR Analysis Car Engine Manufacturer](https://public.tableau.com/views/HRAnalysisCarManufacturer/Sources?:language=de&:display_count=y&:origin=viz_share_link/)
 <img src="images/001_Project1_HR_Analysis_Car_Engine_Manufacturer.PNG?raw=true"/>
 
 ---
 
-[Project 4 Financial Reporting and Management Information Systems](/pdf/Hereford_Week_Report_48.pdf)
+[Project 6 Financial Reporting and Management Information Systems](/pdf/Hereford_Week_Report_48.pdf)
 <img src="images/002_Project2_Flexible_Budget_Based_Variance_Analysis.PNG?raw=true"/>
 
 ---
