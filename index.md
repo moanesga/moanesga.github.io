@@ -36,6 +36,12 @@
 
 ## My publications
 
+
+[2020 Writing Sample : Simulation of an emergency system: case hospital San Rafael (translation to english)]
+(/pdf/006_Monica_Espitia_Writing_sample_translation_to_english.pdf)
+<img src="images/Simulacion_01.PNG?raw=true"/>
+
+
 [2015 Simulation of an emergency system: case hospital San Rafael "ISSN 2145-9282 - ISSN 2422-2399 Ingenio Magno Publindex (Spanish)](http://revistas.ustatunja.edu.co/index.php/ingeniomagno/article/view/1028)
 <img src="images/Simulacion.PNG?raw=true"/>
 
