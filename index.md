@@ -7,7 +7,7 @@
 
 ---
 
-[Project 2 Google Analytics Dashboard of Portfolio Page](https://github.com/moanesga/moanesga.github.io/blob/master/Google_Analytics_Dashboard_Portfolio.md)
+[Project 2 Google Analytics- Dashboard of Portfolio Page](https://github.com/moanesga/moanesga.github.io/blob/master/Google_Analytics_Dashboard_Portfolio.md)
 <img src="images/Google_Analytics_Portafolio_page.PNG?raw=true"/>
 
 
