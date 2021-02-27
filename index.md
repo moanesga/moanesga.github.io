@@ -2,7 +2,7 @@
 
 ---
 
-[Project 1 EDA for Pneumonia detection (2D Medical Imaging)](https://github.com/moanesga/moanesga.github.io/blob/master/EDA_for_pneumonia_identification.md)
+[Project 1 Python- EDA for Pneumonia detection (2D Medical Imaging)](https://github.com/moanesga/moanesga.github.io/blob/master/EDA_for_pneumonia_identification.md)
 <img src="images/EDA for Pneumonia.PNG?raw=true"/>
 
 ---
@@ -13,13 +13,13 @@
 
 ---
 
-[Project 3 Connecting MySQL Server with Python (Sakila DB)](https://github.com/moanesga/moanesga.github.io/blob/master/Connecting%20MySQL%20Server%20with%20Python%20%20(Sakila%20DB).md)
+[Project 3 MySQL/Python- Connecting Server with Sakila DB](https://github.com/moanesga/moanesga.github.io/blob/master/Connecting%20MySQL%20Server%20with%20Python%20%20(Sakila%20DB).md)
 <img src="images/003_Project3_photo.PNG?raw=true"/>
 
 ---
 
 
-[Project 4 Tableau-HR Analysis Car Engine Manufacturer](https://public.tableau.com/views/HRAnalysisCarManufacturer/Sources?:language=de&:display_count=y&:origin=viz_share_link/)
+[Project 4 Tableau- HR Analysis Car Engine Manufacturer](https://public.tableau.com/views/HRAnalysisCarManufacturer/Sources?:language=de&:display_count=y&:origin=viz_share_link/)
 <img src="images/001_Project1_HR_Analysis_Car_Engine_Manufacturer.PNG?raw=true"/>
 
 ---
@@ -36,7 +36,7 @@
 
 ---
 
-[Project 7 Dashboard Curriculum Vitae in Power BI](/pdf/cv - PowerBI.pdf)
+[Project 7 Power BI- Dashboard Curriculum Vitae](/pdf/cv - PowerBI.pdf)
 <img src="images/cv-PowerBI.PNG?raw=true"/>
 
 ---
