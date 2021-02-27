@@ -18,18 +18,25 @@
 
 ---
 
+
 [Project 4 Tableau-HR Analysis Car Engine Manufacturer](https://public.tableau.com/views/HRAnalysisCarManufacturer/Sources?:language=de&:display_count=y&:origin=viz_share_link/)
 <img src="images/001_Project1_HR_Analysis_Car_Engine_Manufacturer.PNG?raw=true"/>
 
 ---
 
-[Project 5 Financial Reporting and Management Information Systems](/pdf/Hereford_Week_Report_48.pdf)
+
+[Project 5 Tableau- Customer Segmentation Storytelling: Case UK Bank](https://public.tableau.com/profile/monica.espitia#!/vizhome/CustomerSegmentationcaseUKBank/Story1)
+<img src="images/UK Bank.PNG?raw=true"/>
+
+---
+
+[Project 6 Financial Reporting and Management Information Systems](/pdf/Hereford_Week_Report_48.pdf)
 <img src="images/002_Project2_Flexible_Budget_Based_Variance_Analysis.PNG?raw=true"/>
 
 
 ---
 
-[Project 6 Dashboard Curriculum Vitae in Power BI](/pdf/cv - PowerBI.pdf)
+[Project 7 Dashboard Curriculum Vitae in Power BI](/pdf/cv - PowerBI.pdf)
 <img src="images/cv-PowerBI.PNG?raw=true"/>
 
 ---
