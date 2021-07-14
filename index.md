@@ -25,7 +25,7 @@
 ---
 
 
-[Project 5 Tableau- Customer Segmentation Storytelling: Case UK Bank](https://public.tableau.com/profile/monica.espitia#!/vizhome/CustomerSegmentationcaseUKBank/Story1)
+[Project 5 Tableau- Customer Segmentation Storytelling: Case UK Bank](https://public.tableau.com/app/profile/monica.espitia/viz/CustomerSegmentationcaseUKBank/Story1)
 <img src="images/UK Bank.PNG?raw=true"/>
 
 ---
