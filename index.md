@@ -1,3 +1,11 @@
+## My Certifications
+
+---
+[Tableau Certified Data Analyst](/pdf/Tableau Certified Data Analyst certificate.pdf)
+[Tableau Desktop Specialist](/pdf/Tableau Desktop Specialist certificate.pdf)
+
+
+
 ## My Projects
 
 ---
