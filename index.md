@@ -4,7 +4,7 @@
 
 
 [Project 1 CALICO-MA: CAncer LIfe COst Study for Massachusetts](https://public.tableau.com/app/profile/monica.espitia/viz/CALICO_Massachusetts/Dashboard1)
-<img src="images/001_Project1_HR_Analysis_Car_Engine_Manufacturer.PNG?raw=true"/>
+<img src="images/ACD8A297-C728-4E5E-9FC8-4613AF06ACCD_1_105_c.jpeg?raw=true"/>
 
 ---
 
