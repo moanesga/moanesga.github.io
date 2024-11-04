@@ -8,36 +8,33 @@
 
 ---
 
-
-Project 2 Marketing Cost Strategy - Fictive Case Gaming Industry 
-<img src="images/08B98372-0016-4A46-8D40-6B582466A609.jpeg?raw=true"/>
-
----
-
-
-Project 3 Asset Strategy Management - Pharma Sector
-<img src="images/A6CF292A-8803-4B6F-920A-FB41B413DF22.jpeg?raw=true"/>
-
----
-
-
-[Project 4 Tableau- HR Analysis Car Engine Manufacturer](https://public.tableau.com/app/profile/monica.espitia/viz/HRAnalysisCarManufacturer/Sources)
+[Project 2 Tableau- HR Analysis Car Engine Manufacturer](https://public.tableau.com/app/profile/monica.espitia/viz/HRAnalysisCarManufacturer/Sources)
 <img src="images/001_Project1_HR_Analysis_Car_Engine_Manufacturer.PNG?raw=true"/>
 
 ---
 
 
-[Project 5 Tableau- Customer Segmentation Storytelling: Case UK Bank](https://public.tableau.com/app/profile/monica.espitia/viz/CustomerSegmentationcaseUKBank/Story1)
+[Project 3 Tableau- Customer Segmentation Storytelling: Case UK Bank](https://public.tableau.com/app/profile/monica.espitia/viz/CustomerSegmentationcaseUKBank/Story1)
 <img src="images/UK Bank.PNG?raw=true"/>
 
 
 ---
 
-[Project 6 Power BI- Dashboard Curriculum Vitae](/pdf/cvPB.pdf)
+[Project 4 Power BI- Dashboard Curriculum Vitae](/pdf/cvPB.pdf)
 <img src="images/cv-PowerBI.PNG?raw=true"/>
 
 ---
 
+Project 5 Marketing Cost Strategy - Fictive Case Gaming Industry 
+<img src="images/08B98372-0016-4A46-8D40-6B582466A609.jpeg?raw=true"/>
+
+---
+
+
+Project 6 Asset Strategy Management - Pharma Sector
+<img src="images/A6CF292A-8803-4B6F-920A-FB41B413DF22.jpeg?raw=true"/>
+
+---
 
 ## Python/Google Analytics/MySQL Projects
 
