@@ -15,20 +15,25 @@
 ---
 
 
+[Project 3 Asset Strategy Management](https://public.tableau.com/app/profile/monica.espitia/viz/CALICO_Massachusetts/Dashboard1)
+<img src="images/08134BAC-076A-4472-BEC7-1FC21338CD22.jpeg?raw=true"/>
 
-[Project 1 Tableau- HR Analysis Car Engine Manufacturer](https://public.tableau.com/app/profile/monica.espitia/viz/HRAnalysisCarManufacturer/Sources)
+---
+
+
+[Project 4 Tableau- HR Analysis Car Engine Manufacturer](https://public.tableau.com/app/profile/monica.espitia/viz/HRAnalysisCarManufacturer/Sources)
 <img src="images/001_Project1_HR_Analysis_Car_Engine_Manufacturer.PNG?raw=true"/>
 
 ---
 
 
-[Project 2 Tableau- Customer Segmentation Storytelling: Case UK Bank](https://public.tableau.com/app/profile/monica.espitia/viz/CustomerSegmentationcaseUKBank/Story1)
+[Project 5 Tableau- Customer Segmentation Storytelling: Case UK Bank](https://public.tableau.com/app/profile/monica.espitia/viz/CustomerSegmentationcaseUKBank/Story1)
 <img src="images/UK Bank.PNG?raw=true"/>
 
 
 ---
 
-[Project 3 Power BI- Dashboard Curriculum Vitae](/pdf/cv - PowerBI.pdf)
+[Project 6 Power BI- Dashboard Curriculum Vitae](/pdf/cv - PowerBI.pdf)
 <img src="images/cv-PowerBI.PNG?raw=true"/>
 
 ---
@@ -39,23 +44,23 @@
 
 ---
 
-[Project 4 Python- EDA for Pneumonia detection (2D Medical Imaging)](https://github.com/moanesga/moanesga.github.io/blob/master/EDA_for_pneumonia_identification.md)
+[Project 7 Python- EDA for Pneumonia detection (2D Medical Imaging)](https://github.com/moanesga/moanesga.github.io/blob/master/EDA_for_pneumonia_identification.md)
 <img src="images/EDA for Pneumonia.PNG?raw=true"/>
 
 ---
 
-[Project 2 Google Analytics- Dashboard of Portfolio Page](https://github.com/moanesga/moanesga.github.io/blob/master/Google_Analytics_Dashboard_Portfolio.md)
+[Project 8 Google Analytics- Dashboard of Portfolio Page](https://github.com/moanesga/moanesga.github.io/blob/master/Google_Analytics_Dashboard_Portfolio.md)
 <img src="images/Google_Analytics_Portafolio_page.PNG?raw=true"/>
 
 
 ---
 
-[Project 3 MySQL/Python- Connecting Server with Sakila DB](https://github.com/moanesga/moanesga.github.io/blob/master/Connecting%20MySQL%20Server%20with%20Python%20%20(Sakila%20DB).md)
+[Project 9 MySQL/Python- Connecting Server with Sakila DB](https://github.com/moanesga/moanesga.github.io/blob/master/Connecting%20MySQL%20Server%20with%20Python%20%20(Sakila%20DB).md)
 <img src="images/003_Project3_photo.PNG?raw=true"/>
 
 ---
 
-[Project 6 Financial Reporting and Management Information Systems](/pdf/Hereford_Week_Report_48.pdf)
+[Project 10 Financial Reporting and Management Information Systems](/pdf/Hereford_Week_Report_48.pdf)
 <img src="images/002_Project2_Flexible_Budget_Based_Variance_Analysis.PNG?raw=true"/>
 
 
