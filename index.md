@@ -1,8 +1,45 @@
-## My Projects
+## Tableau/Power BI Projects
 
 ---
 
-[Project 1 Python- EDA for Pneumonia detection (2D Medical Imaging)](https://github.com/moanesga/moanesga.github.io/blob/master/EDA_for_pneumonia_identification.md)
+
+[Project 1 CALICO-MA: CAncer LIfe COst Study for Massachusetts](https://public.tableau.com/app/profile/monica.espitia/viz/CALICO_Massachusetts/Dashboard1)
+<img src="images/001_Project1_HR_Analysis_Car_Engine_Manufacturer.PNG?raw=true"/>
+
+---
+
+
+[Project 2 Marketing](https://public.tableau.com/app/profile/monica.espitia/viz/CALICO_Massachusetts/Dashboard1)
+<img src="images/001_Project1_HR_Analysis_Car_Engine_Manufacturer.PNG?raw=true"/>
+
+---
+
+
+
+[Project 1 Tableau- HR Analysis Car Engine Manufacturer](https://public.tableau.com/app/profile/monica.espitia/viz/HRAnalysisCarManufacturer/Sources)
+<img src="images/001_Project1_HR_Analysis_Car_Engine_Manufacturer.PNG?raw=true"/>
+
+---
+
+
+[Project 2 Tableau- Customer Segmentation Storytelling: Case UK Bank](https://public.tableau.com/app/profile/monica.espitia/viz/CustomerSegmentationcaseUKBank/Story1)
+<img src="images/UK Bank.PNG?raw=true"/>
+
+
+---
+
+[Project 3 Power BI- Dashboard Curriculum Vitae](/pdf/cv - PowerBI.pdf)
+<img src="images/cv-PowerBI.PNG?raw=true"/>
+
+---
+
+
+## Python/Google Analytics/MySQL Projects
+
+
+---
+
+[Project 4 Python- EDA for Pneumonia detection (2D Medical Imaging)](https://github.com/moanesga/moanesga.github.io/blob/master/EDA_for_pneumonia_identification.md)
 <img src="images/EDA for Pneumonia.PNG?raw=true"/>
 
 ---
@@ -18,28 +55,10 @@
 
 ---
 
-
-[Project 4 Tableau- HR Analysis Car Engine Manufacturer](https://public.tableau.com/app/profile/monica.espitia/viz/HRAnalysisCarManufacturer/Sources)
-<img src="images/001_Project1_HR_Analysis_Car_Engine_Manufacturer.PNG?raw=true"/>
-
----
-
-
-[Project 5 Tableau- Customer Segmentation Storytelling: Case UK Bank](https://public.tableau.com/app/profile/monica.espitia/viz/CustomerSegmentationcaseUKBank/Story1)
-<img src="images/UK Bank.PNG?raw=true"/>
-
----
-
 [Project 6 Financial Reporting and Management Information Systems](/pdf/Hereford_Week_Report_48.pdf)
 <img src="images/002_Project2_Flexible_Budget_Based_Variance_Analysis.PNG?raw=true"/>
 
 
----
-
-[Project 7 Power BI- Dashboard Curriculum Vitae](/pdf/cv - PowerBI.pdf)
-<img src="images/cv-PowerBI.PNG?raw=true"/>
-
----
 
 ## My publications
 
