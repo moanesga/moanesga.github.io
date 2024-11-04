@@ -15,7 +15,7 @@
 ---
 
 
-[Project 3 Asset Strategy Management - Pharma Sector]
+Project 3 Asset Strategy Management - Pharma Sector
 <img src="images/A6CF292A-8803-4B6F-920A-FB41B413DF22.jpeg?raw=true"/>
 
 ---
