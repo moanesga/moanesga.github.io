@@ -9,7 +9,7 @@
 ---
 
 
-[Project 2 Marketing Cost Strategy - Fictive Case Gaming Industry] 
+Project 2 Marketing Cost Strategy - Fictive Case Gaming Industry 
 <img src="images/08B98372-0016-4A46-8D40-6B582466A609.jpeg?raw=true"/>
 
 ---
