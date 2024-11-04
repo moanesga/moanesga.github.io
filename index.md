@@ -9,8 +9,8 @@
 ---
 
 
-[Project 2 Marketing](https://public.tableau.com/app/profile/monica.espitia/viz/CALICO_Massachusetts/Dashboard1)
-<img src="images/001_Project1_HR_Analysis_Car_Engine_Manufacturer.PNG?raw=true"/>
+[Project 2 Marketing Cost Strategy - Fictive Case Gaming Industry] 
+<img src="images/08B98372-0016-4A46-8D40-6B582466A609.jpeg?raw=true"/>
 
 ---
 
