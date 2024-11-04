@@ -1,17 +1,3 @@
-## My Certifications
-
----
-[Tableau Certified Data Analyst](/pdf/Tableau Certified Data Analyst certificate.pdf)
-<img src="images/TCDA.PNG?raw=true"/>
-
-
----
-[Tableau Desktop Specialist](/pdf/Tableau Desktop Specialist certificate.pdf)
-<img src="images/TDS.PNG?raw=true"/>
-
-
----
-
 ## My Projects
 
 ---
