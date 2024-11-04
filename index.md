@@ -16,7 +16,7 @@
 
 
 [Project 3 Asset Strategy Management](https://public.tableau.com/app/profile/monica.espitia/viz/CALICO_Massachusetts/Dashboard1)
-<img src="images/08134BAC-076A-4472-BEC7-1FC21338CD22.jpeg?raw=true"/>
+<img src="images/A6CF292A-8803-4B6F-920A-FB41B413DF22.jpeg?raw=true"/>
 
 ---
 
