@@ -33,7 +33,7 @@
 
 ---
 
-[Project 6 Power BI- Dashboard Curriculum Vitae](/pdf/cv - PowerBI.pdf)
+[Project 6 Power BI- Dashboard Curriculum Vitae](/pdf/cvPB.pdf)
 <img src="images/cv-PowerBI.PNG?raw=true"/>
 
 ---
@@ -58,10 +58,7 @@
 [Project 9 MySQL/Python- Connecting Server with Sakila DB](https://github.com/moanesga/moanesga.github.io/blob/master/Connecting%20MySQL%20Server%20with%20Python%20%20(Sakila%20DB).md)
 <img src="images/003_Project3_photo.PNG?raw=true"/>
 
----
 
-[Project 10 Financial Reporting and Management Information Systems](/pdf/Hereford_Week_Report_48.pdf)
-<img src="images/002_Project2_Flexible_Budget_Based_Variance_Analysis.PNG?raw=true"/>
 
 
 
